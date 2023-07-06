@@ -1,10 +1,16 @@
-footer {
-  color: rgb(26, 45, 45);
-  background-color: rgba(202, 172, 97, 0.895);
-  border-bottom: 10px solid #133435;
+header {
+  text-align: center;
+  color: rgb(55, 18, 222);
+  background-color: rgba(241, 15, 15, 0.895);
+  border: 5px solid #133435;
 }
-
-#sectionOne {
+#aboutMe {
+  text-align: center;
+  font-size: 32px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+/* #sectionOne {
   color: rgb(174, 167, 158);
 }
 
@@ -35,4 +41,4 @@ li {
 
 ul {
   background-color: #133435;
-}
+} */
